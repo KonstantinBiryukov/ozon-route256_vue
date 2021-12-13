@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec81f0d-8932-4d5e-b90f-280ff40d2da9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/emailautomation/credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Master_Thesis/storytelling-geojson/KonstantinBiryukov.github.io/storytellingmaps-media/videoClassCompressed.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Master_Thesis/storytelling_classification/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/my-website" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular_MIT3/gameOfGrants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleMailApiTest/src/main/resources/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/10111.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/10112.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/10112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/10112.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/mail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps_Projects/University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps_Projects/University_project/src/data/convertcsv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps_Projects/University_project/src/js/faang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps_Projects/University_project/src/js/faang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/homework-1-KonstantinBiryukov" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_1/homework-1-KonstantinBiryukov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="ebf4ec1e-3e58-4217-92a1-9fef2e8b88b2" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zSgVNhQRp1gMiVwNVVAwLkpwA5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task5_tables" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workshop5_tables/required-task-6-KonstantinBiryukov" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task5_tables" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec81f0d-8932-4d5e-b90f-280ff40d2da9" name="Default Changelist" comment="" />
+      <created>1634146926050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634146926050</updated>
+      <workItem from="1634146927648" duration="21617000" />
+      <workItem from="1635089898435" duration="20483000" />
+      <workItem from="1635893608360" duration="5831000" />
+      <workItem from="1635904947230" duration="29031000" />
+      <workItem from="1636780010619" duration="34131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1638512295401">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1638512295401" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1638512295397">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1638512295397" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1638512295391">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1638512295391" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1638512295398">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1638512295398" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1638315459407">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1638315459407" />
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1636254397603">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1636254397603" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1638310571805">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1638310571805" />
+  </component>
+</project>

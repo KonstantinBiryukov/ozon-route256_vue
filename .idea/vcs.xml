@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lecture_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lecture_1/homework-1-KonstantinBiryukov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop_1/required-task-1-KonstantinBiryukov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop_2/homework-2-KonstantinBiryukov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop_3_map/required-task-3-KonstantinBiryukov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop_4_form/required-task-4-KonstantinBiryukov" vcs="Git" />
+  </component>
+</project>
